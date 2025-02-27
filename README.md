@@ -1,1 +1,1 @@
-After downloading the EVRP2.m file, wait for a few minutes to obtain the running result.
+ After downloading all the files, run the EVRP.m 和 wait a few minutes to get the result
